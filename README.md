@@ -8,9 +8,3 @@
 ## :rocket: 기술 스택
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <br/>
 <br/>
-
-## :memo: Github 정보
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkqls4764)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkqls4764)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
