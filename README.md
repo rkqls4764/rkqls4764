@@ -41,7 +41,7 @@
 
 <br/>
 
-## 📌 Featured Projects
+## 📌 Project
 
 <div align="left">
 
