@@ -76,10 +76,17 @@
 
 <div align="left">
 
-<a href="https://github.com/rkqls4764/STUDYWITHSSAFY_16">
+<a href="https://github.com/YEOUL0520/STUDYWITHSSAFY_16">
   <img
     width="49%"
     src="https://github-stats-extended.vercel.app/api/pin/?username=rkqls4764&repo=STUDYWITHSSAFY_16&theme=default&hide_border=false&bg_color=FFFFFF"
+  />
+</a>
+
+<a href="https://github.com/YEOUL0520/ALGO_GUMI_5_16th">
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=rkqls4764&repo=ALGO_GUMI_5_16th&theme=default&hide_border=false&bg_color=FFFFFF"
   />
 </a>
 
